@@ -1,0 +1,18 @@
+.k{
+    background-color: rgb(35, 99, 17);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    font-size: large;
+    color: white;
+}
+.l{
+    color: skyblue;
+}
+.label{
+    width: 100px;
+    display: inline-blockk;
+}
+nav{
+    background-color: white;
+    width: 350px;
+}
